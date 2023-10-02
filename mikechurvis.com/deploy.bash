@@ -23,6 +23,8 @@ fi
 
 git clone "$SITE_REPO" .
 
+# TODO laravel stuff
+
 # TODO symlink stuff
 
 # TODO nginx stuff
